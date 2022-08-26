@@ -31,6 +31,10 @@ body.debug [class*="col-"] {
   height: 80vh;
 }
 
+.end-banner {
+  max-height: 60vh;
+}
+
 img {
   max-height: 45vh;
   box-shadow: 1px 2px 5px 5px rgb(187, 185, 185);
